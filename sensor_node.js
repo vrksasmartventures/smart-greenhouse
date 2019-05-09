@@ -1,5 +1,5 @@
 /*
-  IOT Greenhouse Sensor Node Code
+IOT Greenhouse Sensor Node Code
 */
 
 var mraa = require('mraa'); //require mraa
